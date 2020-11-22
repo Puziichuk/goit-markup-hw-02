@@ -97,6 +97,7 @@ a{
     font-weight: 900;
     font-size: 44px;
     line-height: 1.364;
+    background-color: grey;
 }
 
 .button {
@@ -167,6 +168,7 @@ a{
     font-size: 14px;
     line-height: 1.714;
     letter-spacing: 0.03em;
+    background-color: grey;
 }
 
 .contacts .link{
@@ -176,6 +178,7 @@ a{
     font-size: 14px;
     line-height: 1.714;
     letter-spacing: 0.03em;
+    background-color: grey;
 }
 
 .logo-footer {
